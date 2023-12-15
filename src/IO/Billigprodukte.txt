@@ -1,0 +1,7 @@
+ Das Produkt mit dem Namen Schal unter der Artikelnummer 1332 hat den Preis 15 Euro
+ Das Produkt mit dem Namen Bluse unter der Artikelnummer 5607 hat den Preis 20 Euro
+ Das Produkt mit dem Namen Hut unter der Artikelnummer 1102 hat den Preis 30 Euro
+ Das Produkt mit dem Namen T-Shirt unter der Artikelnummer 1111 hat den Preis 12 Euro
+ Das Produkt mit dem Namen Hut unter der Artikelnummer 124 hat den Preis 25 Euro
+ Das Produkt mit dem Namen Socken, schwarz unter der Artikelnummer 0815a hat den Preis 4 Euro
+ Das Produkt mit dem Namen Seidentuch, blau unter der Artikelnummer 4711 hat den Preis 30 Euro
